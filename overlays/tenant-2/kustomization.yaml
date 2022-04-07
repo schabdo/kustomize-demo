@@ -1,0 +1,10 @@
+namespace: ns-tenant-2
+
+commonLabels:
+  tenant: tenant-2
+
+bases:
+  - ../../base
+
+patchesStrategicMerge:
+  - deployment.yaml
