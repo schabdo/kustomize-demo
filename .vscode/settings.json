@@ -1,5 +1,6 @@
 {
-  "yaml.schemas": {
-    "https://json.schemastore.org/kustomization.json": ["kustomization.yaml"]
-  }
+  "yaml.format.enable": true,
+  "editor.formatOnSave": true,
+  "yaml.validate": true,
+  "yaml.completion": true
 }

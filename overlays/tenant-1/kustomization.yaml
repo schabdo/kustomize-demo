@@ -1,7 +1,0 @@
-namespace: ns-tenant-1
-
-commonLabels:
-  tenant: tenant-1
-
-bases:
-  - ../../base
